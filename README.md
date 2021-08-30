@@ -8,10 +8,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<<<<<<< HEAD
     <a href="https://www.linkedin.com/in/millene-prado-92358798/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/millene_prado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </p>
 
 
+=======
+<a href="https://www.linkedin.com/in/millene-prado-92358798/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="milleneprado" height="30" width="40" /></a>
+<a href="https://www.instagram.com/millene_prado/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="millene_prado height="20" width="40" /></a>
+</p>
+>>>>>>> c90609d84db04175d23ebc828dced1aee05c4d8b
 
 
 <h3 align="left">Languages and Tools:</h3>
