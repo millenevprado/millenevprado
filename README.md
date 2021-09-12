@@ -4,7 +4,7 @@
 
 - 👩‍🔬 Chemical Engineering MSc.
 - 📈 Black Belt in Lean Six Sigma
-- 👩‍🎓 Full-Stack Web Dev in training at [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
+- 👩‍🎓 Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +18,5 @@
 <div style="display: inline_block">
     <img height="164em" src="https://github-readme-stats.vercel.app/api?username=millenevprado&count_private=true?&theme=github_dark"></a> 	<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenevprado&layout=compact&theme=github_dark"></a>
 </div>
-
 
 
