@@ -4,7 +4,7 @@
 
 - 👩‍🔬 Chemical Engineering MSc.
 - 📈 Black Belt in Lean Six Sigma
-- 👩‍🎓 Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/)
+- 👩‍🎓 Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) and currently working at Northern Ventures
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
