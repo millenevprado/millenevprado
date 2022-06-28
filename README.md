@@ -1,7 +1,7 @@
 <img align="right" src="img.svg" width="280" />
 <h1 align="center">MILLENE PRADO</h1>
 
-<h4 align="center">Software Engineer | Teacher Assistant @ Le Wagon </h4>
+<h4 align="center">Software Developer | Teacher @ Le Wagon </h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/millene-prado-92358798/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3F3D56?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/millene_prado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3F3D56?style=for-the-badge&logo=instagram&logoColor=white"></a> </p>
@@ -9,7 +9,7 @@
 <hr>
 <h3 align="left">About me:</h3>
 
-- Software Engineer at [Northern Ventures](https://www.northern.com.br/)
+- Software Developer at [Northern Ventures](https://www.northern.com.br/)
 - Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) 
 - Chemical Engineering MSc.
 - Black Belt in Lean Six Sigma
