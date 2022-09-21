@@ -3,7 +3,7 @@
 
 <h4 align="center">Software Developer | Teacher @ Le Wagon </h4>
 <p align="center">
-    <a href="https://www.linkedin.com/in/millene-prado-92358798/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3F3D56?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/millene-prado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3F3D56?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/millene_prado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3F3D56?style=for-the-badge&logo=instagram&logoColor=white"></a> </p>
     
 <hr>
